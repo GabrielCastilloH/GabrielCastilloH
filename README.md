@@ -8,7 +8,7 @@ I am a full-stack web and app developer, currently studying CS @ Cornell Univers
 
 
 ## Tehcnical Skills
-# Languages
+### Languages
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -17,12 +17,13 @@ I am a full-stack web and app developer, currently studying CS @ Cornell Univers
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-# Frameworks
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=createreactapp&logoColor=black)
+### Frameworks
+![React](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/reactnative-0088CC?style=for-the-badge&logo=createreactapp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/nodejs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Tools
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
