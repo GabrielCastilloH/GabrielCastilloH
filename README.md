@@ -1,7 +1,7 @@
 ## Hey, I'm Gabriel
 I am a full-stack web and app developer, currently studying CS @ Cornell University. Most often, I enjoy making creative but useful cross-platform mobile apps, like a [swipe-based networking app](https://github.com/akh1lk/LockedIn), and a [digital marketplace for the gig-economy](https://kogyo.co).
 
-- 🧑‍🏫  I’m currently working on an AI SAT tutor.
+- 🧑‍🏫  I’m currently working on an app where you can get anything done in one tap!
 - 💬  Ask me anything about **React Native** and **Node.js**
 - 🌱 I’m currently learning about AI.
 - 👀 Visit [my website](https://gabrielach.com), to learn more about me
